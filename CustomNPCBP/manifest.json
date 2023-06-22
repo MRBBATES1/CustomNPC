@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "CustomNPC BP by MRBBATES1",
+        "name": "CustomNPC BP by MRBBATES1",
+        "uuid": "4ccd2ac1-8086-47b8-a913-99c85b1963f9",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 18, 30 ]
+    },
+    "modules": [
+        {
+            "description": "CustomNPC BP by MRBBATES1",
+            "type": "data",
+            "uuid": "d293d623-c5ad-489c-ac1b-c2b9b280ae0c",
+            "version": [0, 0, 1]
+        }
+    ]
+}

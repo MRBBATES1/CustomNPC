@@ -1,0 +1,39 @@
+{
+	"format_version": "1.8.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "b:blazenpc",
+			"min_engine_version": "1.8.0",
+			"materials": {
+				"body": "blaze_body",
+				"head": "blaze_head"
+			},
+			"textures": {
+				"default": "textures/entity/blazenpc"
+			},
+			"geometry": {
+				"default": "geometry.blazenpc"
+			},
+			"animations": {
+				"look_at_target": "animation.common.look_at_target",
+				"move": "animation.blazenpc.move"
+			},
+			"particle_effects": {
+				"charged_flames": "minecraft:mobflame_emitter"
+			},
+			"animation_controllers": [
+				{
+					"move": "controller.animation.blaze.move"
+				},
+				{
+					"flame": "controller.animation.blaze.flame"
+				}
+			],
+			"render_controllers": ["controller.render.blaze"],
+			"spawn_egg": {
+				"base_color": "#050403",
+				"overlay_color": "#cedb2f"
+			}
+		}
+	}
+}

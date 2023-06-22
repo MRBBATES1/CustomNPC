@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "CustomNPC RP by MRBBATES1",
+        "name": "CustomNPC RP by MRBBATES1",
+        "uuid": "997da1dd-bbeb-4e75-a188-9e482dc29f71",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 17, 0 ]
+    },
+    "modules": [
+        {
+            "description": "CustomNPC RP by MRBBATES1",
+            "type": "resources",
+            "uuid": "f49375fe-a023-4cce-9e29-72a15fdbd622",
+            "version": [0, 0, 1]
+        }
+    ]
+}
