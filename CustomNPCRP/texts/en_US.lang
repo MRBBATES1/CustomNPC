@@ -1,0 +1,8 @@
+entity.b:blazenpc.name=Blaze NPC
+item.spawn_egg.entity.b:blazenpc.name=Spawn Blaze NPC
+
+entity.b:customnpc.name=Duplicate NPC
+item.spawn_egg.entity.b:customnpc.name=Spawn Duplicate NPC
+
+entity.b:marvel.name=Avenger
+item.spawn_egg.entity.b:marvel.name=Spawn An Avenger

@@ -1,0 +1,25 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "b:marvel",
+      "min_engine_version": "1.8.0",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+		"captinamerica": "textures/entity/capnpc"
+      },
+      "geometry": {
+        "default": "geometry.marvel"
+      },
+      "render_controllers": [
+        "controller.render.marvel"
+      ],
+      "spawn_egg": {
+        "texture": "spawn_egg",
+        "texture_index": 35
+      }
+    }
+  }
+}
