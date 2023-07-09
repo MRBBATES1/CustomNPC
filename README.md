@@ -10,4 +10,4 @@ This is the pack that was made/showcased to demostrate how to create your own cu
 
 __Featured In:__
 
-[How To Create Custom NPCs For Minecraft Bedrock Edition](https://youtu.be/Xbyy_nZZV-E)
+[How To Create Custom NPCs For Minecraft Bedrock Edition](https://youtu.be/3vkv9-1Qm1c)
